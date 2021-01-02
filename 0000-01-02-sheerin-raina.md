@@ -2,7 +2,8 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Starting a new project
+
 Use the left arrow to go back!
 
 Just edit this new code
